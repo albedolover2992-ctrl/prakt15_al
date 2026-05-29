@@ -1,0 +1,16 @@
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\практика_15.Form1.resources
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\практика 15.csproj.GenerateResource.cache
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\практика 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\практика 15.AssemblyInfoInputs.cache
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\практика 15.AssemblyInfo.cs
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\практика 15.csproj.CoreCompileInputs.cache
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\bin\Debug\net8.0-windows\практика 15.exe
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\bin\Debug\net8.0-windows\практика 15.deps.json
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\bin\Debug\net8.0-windows\практика 15.runtimeconfig.json
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\bin\Debug\net8.0-windows\практика 15.dll
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\bin\Debug\net8.0-windows\практика 15.pdb
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\практика 15.dll
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\refint\практика 15.dll
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\практика 15.pdb
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\практика 15.genruntimeconfig.cache
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\практика 15\практика 15\obj\Debug\net8.0-windows\ref\практика 15.dll
